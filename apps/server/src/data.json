@@ -1,0 +1,38 @@
+{
+  "headerContent": {
+    "logo": "assets/betway-logo.webp",
+    "login": "Login",
+    "signup": "Sign up"
+  },
+  "links": ["sports", "live & real", "casino", "esports", "vegas"],
+  "heroImg": "assets/hero-img.webp",
+  "ctaContent": {
+    "title": "Get up to £10 in Free Bets",
+    "subTitle": "new customer offer",
+    "buttonText": "join now"
+  },
+  "loginContent": {
+    "title": "Login",
+    "subTitle": "New customer?",
+    "linkText": "Register here",
+    "formContent": {
+      "username": "Username",
+      "password": "Password",
+      "buttonText": "Login",
+      "extraText": "Forgot Username/Password"
+    }
+  },
+  "signUpContent": {
+    "title": "Sign Up",
+    "subTitle": "Already a customer?",
+    "linkText": "Login here",
+    "formContent": {
+      "email": "Email",
+      "password": "Password",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "buttonText": "Sign Up",
+      "extraText": "Go To Login"
+    }
+  }
+}
